@@ -1,4 +1,3 @@
-
 export const images = {
   hero: '/assets/crianca-feliz-brincando.jpg',
   solution: '/assets/pomada-natural-ingredientes.jpg',
@@ -10,8 +9,8 @@ export const images = {
     tanchagem: '/assets/ingrediente-folhas-tanchagem.jpg',
   },
   testimonials: {
-    ana: '/assets/depoimento-mae-filha-feliz.jpg',
-    juliana: '/assets/depoimento-mae-filho-aliviada.jpg',
-    mariana: '/assets/depoimento-mae-bebe-pele-saudavel.jpg',
+    ana: 'Ana',
+    juliana: 'Juliana',
+    mariana: 'Mariana',
   },
 };
